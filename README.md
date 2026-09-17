@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Lorenzo 👋
 
-<!--
-**LorenzoC1202/LorenzoC1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Associate interested in cybersecurity, IT, Linux, and software development.
 
-Here are some ideas to get you started:
+I enjoy building projects with Python, working with Linux systems, troubleshooting computers, and learning how networks and security work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Cybersecurity
+- Networking
+- Linux administration
+- Python development
+- Cloud technologies
+
+## Technologies
+
+- Python
+- Linux
+- Git & GitHub
+- Google Cloud
+- REST APIs
+- Windows
+- Java
+- C++
+
+## Current Goals
+
+- Break into an entry-level IT or cybersecurity role
+- Build stronger software projects
+- Improve my networking skills
+- Learn more about penetration testing and security engineering
+
+## Projects
+
+More projects coming soon as I continue building my portfolio.
